@@ -10,4 +10,4 @@
 6. express.js
 7. Nodejs (Server)
 
-## I have all the .env file here in the repository that why it is private. 
+## For .env info you can DM me directly as they as secured informations.
