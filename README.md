@@ -10,4 +10,4 @@
 6. express.js
 7. Nodejs (Server)
 
-#### For .env info you can DM me directly as they as secured informations.
+#### For .env info you can DM me directly as they are Private.
